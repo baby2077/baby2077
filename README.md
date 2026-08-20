@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colorList=FFF7CC,FFD700,FFA500&height=220&section=header&text=Hi%20there%2C%20I'm%20baby2016!&fontSize=42&fontAlignY=38&textColor=78350F&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=16&descColor=92400E" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7CC,50:FFD700,100:FFA500&height=220&section=header&text=Hi%20there%2C%20I'm%20baby2016!&fontSize=42&fontAlignY=38&animation=fadeIn&textColor=78350F&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=16&descColor=92400E" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=F78FB3&center=true&vCenter=true&random=false&width=560&lines=%F0%9F%92%BB+Python+%26+C%2B%2B+Developer;%F0%9F%8C%99+Touhou+Project+Fan;%F0%9F%9A%80+Open+Source+Contributor;%F0%9F%8E%AF+Embedded+%26+Backend+Engineer" />
@@ -38,16 +38,9 @@
 
 ## 🛠️ 技术栈
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![嵌入式开发](https://img.shields.io/badge/嵌入式-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,arduino,git,github&perline=8" alt="技能图标" />
+</div>
 
 ## 📊 Fairy Oracle Sanctuary 团队数据
 
@@ -73,10 +66,28 @@
 [![Qt-Fluent-Widgets](https://img.shields.io/github/stars/Fairy-Oracle-Sanctuary/Qt-Fluent-Widgets?style=for-the-badge&label=Qt-Fluent-Widgets%20%E2%AD%90&color=3B82F6)](https://github.com/Fairy-Oracle-Sanctuary/Qt-Fluent-Widgets)
 [![Touhou-Chabangeki-Collect](https://img.shields.io/github/stars/Fairy-Oracle-Sanctuary/Touhou-Chabangeki-Collect?style=for-the-badge&label=Touhou-Chabangeki-Collect%20%E2%AD%90&color=10B981)](https://github.com/Fairy-Oracle-Sanctuary/Touhou-Chabangeki-Collect)
 
+## 📅 贡献动态
+
+### 🐍 贪吃蛇动画
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baby-2016/baby-2016/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baby-2016/baby-2016/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/baby-2016/baby-2016/output/github-contribution-grid-snake.svg" alt="贪吃蛇动画" width="100%" />
+</picture>
+</div>
+
+### 🏔️ 3D 贡献图
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/baby-2016/baby-2016/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献图" width="100%" />
+</div>
+
 ---
 
 <div align="center">
   <sub>⭐ 如果你喜欢我的项目，欢迎给我的组织 <a href="https://github.com/Fairy-Oracle-Sanctuary">Fairy Oracle Sanctuary</a> 点个 Star，或者在 <a href="https://ifdian.net/a/Fairy_ora_san">爱发电</a> 赞助我们！</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colorList=FFF7CC,FFD700,FFA500&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7CC,50:FFD700,100:FFA500&height=120&section=footer&animation=twinkling" />
