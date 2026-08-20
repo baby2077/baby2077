@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hi%20there%2C%20I'm%20baby2016!&fontSize=42&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colorList=FFF7CC,FFD700,FFA500&height=220&section=header&text=Hi%20there%2C%20I'm%20baby2016!&fontSize=42&fontAlignY=38&textColor=78350F&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=16&descColor=92400E" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=F78FB3&center=true&vCenter=true&random=false&width=560&lines=%F0%9F%92%BB+Python+%26+C%2B%2B+Developer;%F0%9F%8C%99+Touhou+Project+Fan;%F0%9F%9A%80+Open+Source+Contributor;%F0%9F%8E%AF+Embedded+%26+Backend+Engineer" />
@@ -49,16 +49,29 @@
 
 ![嵌入式开发](https://img.shields.io/badge/嵌入式-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📊 GitHub 统计
+## 📊 Fairy Oracle Sanctuary 团队数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baby-2016&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baby-2016&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFairy-Oracle-Sanctuary&query=public_repos&label=%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&color=8B5CF6&style=for-the-badge" alt="公开仓库" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFairy-Oracle-Sanctuary&query=followers&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=EC4899&style=for-the-badge" alt="关注者" />
+  <img src="https://img.shields.io/badge/%E6%88%90%E7%AB%8B%E4%BA%8E-2022%2F03%2F22-3B82F6?style=for-the-badge" alt="成立时间 2022/03/22" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baby-2016&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
-</p>
+**组织主流技术栈**：
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**热门项目**：
+
+[![Touhou-translate](https://img.shields.io/github/stars/Fairy-Oracle-Sanctuary/Touhou-translate?style=for-the-badge&label=Touhou-translate%20%E2%AD%90&color=8B5CF6)](https://github.com/Fairy-Oracle-Sanctuary/Touhou-translate)
+[![PySide6-Fluent-Widgets-Pro](https://img.shields.io/github/stars/Fairy-Oracle-Sanctuary/PySide6-Fluent-Widgets-Pro?style=for-the-badge&label=PySide6-Fluent-Widgets-Pro%20%E2%AD%90&color=EC4899)](https://github.com/Fairy-Oracle-Sanctuary/PySide6-Fluent-Widgets-Pro)
+[![Qt-Fluent-Widgets](https://img.shields.io/github/stars/Fairy-Oracle-Sanctuary/Qt-Fluent-Widgets?style=for-the-badge&label=Qt-Fluent-Widgets%20%E2%AD%90&color=3B82F6)](https://github.com/Fairy-Oracle-Sanctuary/Qt-Fluent-Widgets)
+[![Touhou-Chabangeki-Collect](https://img.shields.io/github/stars/Fairy-Oracle-Sanctuary/Touhou-Chabangeki-Collect?style=for-the-badge&label=Touhou-Chabangeki-Collect%20%E2%AD%90&color=10B981)](https://github.com/Fairy-Oracle-Sanctuary/Touhou-Chabangeki-Collect)
 
 ---
 
@@ -66,4 +79,4 @@
   <sub>⭐ 如果你喜欢我的项目，欢迎给我的组织 <a href="https://github.com/Fairy-Oracle-Sanctuary">Fairy Oracle Sanctuary</a> 点个 Star，或者在 <a href="https://ifdian.net/a/Fairy_ora_san">爱发电</a> 赞助我们！</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colorList=FFF7CC,FFD700,FFA500&height=120&section=footer" />
