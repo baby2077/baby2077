@@ -1,3 +1,5 @@
+<p><b>简体中文</b> | <a href="./README_EN.md">English</a></p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF7CC,50:FFD700,100:FFA500&height=220&section=header&text=Hi%20there%2C%20I'm%20baby2016!&fontSize=42&fontAlignY=38&animation=fadeIn&textColor=78350F&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=16&descColor=92400E" />
 
 <div align="center">
