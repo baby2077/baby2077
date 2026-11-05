@@ -74,16 +74,16 @@ I'm a member of **Fairy Oracle Sanctuary** — a developer collective with the s
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baby-2016/baby-2016/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baby-2016/baby-2016/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/baby-2016/baby-2016/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baby2077/baby2077/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baby2077/baby2077/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/baby2077/baby2077/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </picture>
 </div>
 
 ### 🏔️ 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/baby-2016/baby-2016/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/baby2077/baby2077/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
